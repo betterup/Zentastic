@@ -16,16 +16,3 @@
         </div>
     </div>
 
-    <div class="" id="dg">
-        <div class="container">
-            <div class="row centered">
-                <div class="col-lg-8 col-lg-offset-2">
-                    <h4 class="">ZENDESK BOOTSTRAP</h4>
-
-                    <p>What do you get when you combine Zendesk and
-                    Bootstrap?<br>
-                    A ****ing awesome Help Center!</p>
-                </div>
-            </div>
-        </div>
-    </div>
