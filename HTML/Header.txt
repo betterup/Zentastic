@@ -10,15 +10,10 @@
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
                 <li>
-                    <nav class="user-nav">
-                        <button class="btn btn-primary pull-right" type="submit">{{submit_a_request}}</button>
-                    </nav>
-
-                    <form class="navbar-form navbar-left">
-                        <div class="form-group">
-                            {{user_info}}
-                        </div>
-                    </form>
+                    {{user_info}}
+                </li>
+                <li>
+                    {{submit_a_request}}
                 </li>
             </ul>
         </div>
