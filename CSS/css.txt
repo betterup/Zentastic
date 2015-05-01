@@ -79,6 +79,13 @@ section {
   color: #7b7b7b;
 }
 
+.search-small {
+  width: 100% !important;
+}
+.search-small input {
+  width: 100% !important;
+}
+
 
 /*This theme also requires the main-zentastic.css file to be uploaded to the Assets tab.
 Customizations by:  ModeratorWes
